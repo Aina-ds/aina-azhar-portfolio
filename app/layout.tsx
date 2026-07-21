@@ -24,7 +24,7 @@ const jetbrainsMono = JetBrains_Mono({
   display: "swap",
 });
 
-const siteUrl = "https://ainaazhar-portfolio.vercel.app";
+const siteUrl = "https://aina-azhar-portfolio.vercel.app";
 const description =
   "Aina Azhar — Data Science undergraduate at COMSATS University Islamabad, seeking Data Science, Machine Learning and Data Analyst internships. Explore projects in regression, clustering and EDA.";
 
