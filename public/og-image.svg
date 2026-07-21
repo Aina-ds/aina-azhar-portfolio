@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#FFFFFF"/>
+  <rect width="1200" height="630" fill="url(#grid)"/>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#E6EAF2"/>
+    </pattern>
+  </defs>
+  <rect x="80" y="80" width="88" height="88" rx="20" fill="#2563EB"/>
+  <text x="124" y="138" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#FFFFFF" text-anchor="middle">AA</text>
+  <text x="80" y="300" font-family="Arial, sans-serif" font-size="56" font-weight="700" fill="#131B2E">Aina Azhar</text>
+  <text x="80" y="360" font-family="Arial, sans-serif" font-size="30" fill="#2563EB">Data Science &amp; Machine Learning</text>
+  <text x="80" y="420" font-family="Arial, sans-serif" font-size="24" fill="#5B6479">Internship Candidate · COMSATS University Islamabad</text>
+</svg>
