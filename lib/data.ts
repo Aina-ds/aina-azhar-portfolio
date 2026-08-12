@@ -4,7 +4,7 @@
 export const profile = {
   name: "Aina Azhar",
   initials: "AA",
-  title: "Data Science | Machine Learning | Data Analytics — Internship Candidate",
+  title: "Data Science | Machine Learning | Data Analytics",
   shortTitle: "Data Science Undergraduate",
   location: "Islamabad, Pakistan",
   phone: "+92 330 9280134",
