@@ -103,6 +103,18 @@ export const moreProjectsNote =
 export const experience = [
   {
     role: "Data Science Intern",
+    org: "AXI Tech",
+    period: "July – August 2026",
+    bullets: [
+      "Built a full-stack Complaint Management System from scratch, covering UI, backend, and database design",
+      "Developed the frontend with React and Tailwind CSS, and the backend with Prisma ORM on a PostgreSQL database",
+      "Collected and processed real complaint data, then applied semantic analysis to automatically group complaints by category",
+      "Generated text embeddings and used TF-IDF to produce initial cluster labels, refining them manually where automated labels weren't meaningful",
+      "Applied K-Means clustering on the embeddings to segment complaints into coherent categories",
+    ],
+  },
+  {
+    role: "Data Science Intern",
     org: "Estrat's",
     period: "July – August 2025",
     bullets: [
