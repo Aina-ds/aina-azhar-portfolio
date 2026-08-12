@@ -4,15 +4,15 @@
 export const profile = {
   name: "Aina Azhar",
   initials: "AA",
-  title: "Data Science | Machine Learning | Data Analytics — Internship Candidate",
-  shortTitle: "Data Science Undergraduate",
+  title: "Data Science | Machine Learning | Data Analytics",
+  shortTitle: "Data Science Graduate",
   location: "Islamabad, Pakistan",
   phone: "+92 330 9280134",
   email: "ainaazhar2019@gmail.com",
   linkedin: "https://www.linkedin.com/in/aina-azhar-a29a8b34a/",
   github: "https://github.com/Aina-ds",
   summary:
-    "Data Science undergraduate (6th semester, CGPA 3.53/4.0) with hands-on experience building machine learning models, conducting exploratory data analysis, and developing data visualizations across 15+ independent projects. Applied EDA and model-training techniques to real-world datasets during a Data Science internship. Proficient in Python, R, SQL, and the core ML/data stack (Pandas, NumPy, Scikit-learn). Seeking a Data Science, Machine Learning, or Data Analyst internship to apply analytical and predictive modeling skills in a professional environment.",
+    "Data Science graduate with hands-on experience building machine learning models, conducting exploratory data analysis, and developing data visualizations across 15+ independent projects. Applied EDA and model-training techniques to real-world datasets during a Data Science internship. Proficient in Python, R, SQL, and the core ML/data stack (Pandas, NumPy, Scikit-learn). Seeking a full-time role in Data Science, Machine Learning, or Data Analytics to apply analytical and predictive modeling skills in a professional environment.",
 };
 
 export const stats = [
