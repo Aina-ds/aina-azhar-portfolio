@@ -51,9 +51,9 @@ export default function About() {
                 lifting.
               </p>
               <p>
-                Right now I&apos;m looking for a Data Science, Machine
-                Learning or Data Analyst internship where I can trade
-                classroom problems for real ones.
+               Right now I&apos;m looking for a full-time Data Science,
+               Machine Learning or Data Analyst role where I can trade
+               classroom problems for real ones.
               </p>
             </div>
           </motion.div>
