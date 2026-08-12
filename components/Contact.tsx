@@ -41,8 +41,8 @@ export default function Contact() {
             Let&apos;s work together.
           </h2>
           <p className="mt-4 text-ink-500 leading-relaxed">
-            Open to Data Science, Machine Learning and Data Analyst
-            internships. Reach out and I&apos;ll get back to you soon.
+           Open to full-time roles in Data Science, Machine Learning
+           and Data Analytics. Reach out and I&apos;ll get back to you soon.
           </p>
         </motion.div>
 
