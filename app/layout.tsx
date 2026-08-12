@@ -26,7 +26,7 @@ const jetbrainsMono = JetBrains_Mono({
 
 const siteUrl = "https://aina-azhar-portfolio.vercel.app";
 const description =
-  "Aina Azhar — Data Science undergraduate at COMSATS University Islamabad, seeking Data Science, Machine Learning and Data Analyst internships. Explore projects in regression, clustering and EDA.";
+  "Aina Azhar — Data Science graduate seeking full-time roles in Data Science, Machine Learning and Data Analytics. Explore projects in regression, clustering and EDA.";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
