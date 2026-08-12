@@ -57,6 +57,20 @@ export type Project = {
 
 export const projects: Project[] = [
   {
+    id: "complaint-management-system",
+    title: "Complaint Management System with Semantic Complaint Clustering",
+    description:
+      "Built a full-stack complaint management system end-to-end, then applied semantic analysis to automatically categorize incoming complaints by topic.",
+    bullets: [
+      "Designed and built the complete system — UI, backend, and database — using React, Tailwind CSS, Prisma ORM, and PostgreSQL",
+      "Collected real complaint data and generated text embeddings to represent each complaint semantically",
+      "Used TF-IDF to produce initial category labels, then manually refined them where the automated labels weren't meaningful",
+      "Applied K-Means clustering on the embeddings to group complaints into coherent categories",
+    ],
+    tech: ["React", "Tailwind CSS", "Prisma", "PostgreSQL", "Python", "Scikit-learn"],
+    github: "https://github.com/Aina-ds",
+  },
+  {
     id: "fuel-efficiency",
     title: "Fuel Efficiency Prediction Using Polynomial Regression",
     description:
@@ -96,7 +110,6 @@ export const projects: Project[] = [
     github: "https://github.com/Aina-ds/EDA-Supermarket-Sales",
   },
 ];
-
 export const moreProjectsNote =
   "12+ additional projects (clustering, classification, regression, SQL analytics, R)";
 
