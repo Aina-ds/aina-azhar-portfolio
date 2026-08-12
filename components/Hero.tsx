@@ -131,17 +131,6 @@ export default function Hero() {
           </div>
 
           <motion.div
-            animate={{ y: [0, -10, 0] }}
-            transition={{ duration: 5, repeat: Infinity, ease: "easeInOut" }}
-            className="absolute -left-6 bottom-8 hidden sm:flex items-center gap-2 rounded-xl bg-white border border-surface-border shadow-card px-4 py-3"
-          >
-            <span className="h-2.5 w-2.5 rounded-full bg-emerald-500" />
-            <span className="text-xs font-medium text-ink-700">
-              Open to internships
-            </span>
-          </motion.div>
-
-          <motion.div
             animate={{ y: [0, 10, 0] }}
             transition={{ duration: 6, repeat: Infinity, ease: "easeInOut", delay: 0.5 }}
             className="absolute -right-4 top-6 hidden sm:block rounded-xl bg-white border border-surface-border shadow-card px-4 py-3"
